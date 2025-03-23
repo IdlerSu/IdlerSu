@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**IdlerSu/IdlerSu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+It's SuZiYu here， I'm a undergrad major in **IOT** Engineering。
 
-Here are some ideas to get you started:
+I am very interested in distributed technology，currently working on a distributed file consensus system, which imitates the design of raft to a certain extent, but emphasizes eventual consistency rather than strong consistency
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ProjectStatus
+
+| WorkingOn | Pending |
+|:-:|:-:|
+|messanger|NULL|
+
+
+> Go to [Development-memo](https://github.com/zentialEdwardSu/Development-memo) for details:D
+
+### OtherInfo
+
+- 📫 e-mail:  <a href="hi@edwardsu.me">📨 hi@edwardsu.me</a>
+- ⚡ Fun fact:  I'm obsessed with writing bugs I can't fix
+
