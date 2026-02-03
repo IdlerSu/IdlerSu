@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-It's SuZiYu here， I'm a undergrad major in **IOT** Engineering。
+It's SuZiYu here， I am a master's student majoring in communications engineering, SUSTech.
 
-I am very interested in distributed technology，currently working on a distributed file consensus system, which imitates the design of raft to a certain extent, but emphasizes eventual consistency rather than strong consistency
+My current research interests are Distributed-Integration-of-Sensing-and-Communication(DISAC) and tensor-based channel parameter estimation.
 
 ### ProjectStatus
 
